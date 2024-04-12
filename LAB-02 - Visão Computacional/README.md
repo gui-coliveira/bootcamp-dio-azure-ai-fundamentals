@@ -10,9 +10,9 @@
    
 O recurso trás informações de cada face encontrada juntamente com um JSON contendo as coordenadas de cada ponto chave identificado na imagem.
 
-<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-M02/Outputs/output1.png" style="width:45vw">
+<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-02%20-%20Visão%20Computacional/Outputs/output1.png" style="width:45vw">
 <br>
-<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-M02/Outputs/output2.png" style="width:45vw, height:50vw">
+<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-02%20-%20Visão%20Computacional/Outputs/output2.png" style="width:45vw, height:50vw">
 
 
 
@@ -21,6 +21,6 @@ O recurso trás informações de cada face encontrada juntamente com um JSON con
 
 O recurso trás uma descrição sobre a imagem e um JSON contendo algumas informações relacionadas ao metadata da imagem e parâmetros
 
-<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-M02/Outputs/output3.png" style="width:45vw">
+<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-02%20-%20Visão%20Computacional/Outputs/output3.png" style="width:45vw">
 <br>
-<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-M02/Outputs/output4.png" style="width:45vw, height:50vw">
+<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-02%20-%20Visão%20Computacional/Outputs/output4.png" style="width:45vw, height:50vw">
