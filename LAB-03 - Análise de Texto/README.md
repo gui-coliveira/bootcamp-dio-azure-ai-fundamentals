@@ -12,8 +12,8 @@
    
 #### O recurso trás informações de cada sentença analisando o sentimento e relacionando em porcentagem se é **Positivo, Neutro ou Negativo** e um arquivo JSON
 
-<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-03%20-%20Análise%20de%20Texto/Source/output1.png" style="width:40vw, height:45vw">
+<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-03%20-%20Análise%20de%20Texto/Source/output1.png" style="width:40vw, height:40vw">
 <br>
-<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-03%20-%20Análise%20de%20Texto/Source/output2.png" style="width:45vw, height:50vw">
+<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-03%20-%20Análise%20de%20Texto/Source/output2.png" style="width:40vw, height:40vw">
 <br>
-<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-03%20-%20Análise%20de%20Texto/Source/output3.png" style="width:45vw, height:50vw">
+<img src="https://github.com/gui-coliveira/bootcamp-dio-azure-ai-fundamentals/blob/main/LAB-03%20-%20Análise%20de%20Texto/Source/output3.png" style="width:40vw, height:40vw">
